@@ -7,4 +7,4 @@ development has just started and the files on GitHub are not ready to be used!
 
 firmware is not finished and is currently being developed to work with the D1 mini dev board
 
-firmware is located in the Potatium-Firmware branch
+firmware is located in the "Firmware" branch
